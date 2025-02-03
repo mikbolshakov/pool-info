@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/chainData
+
+.env
+.DS_Store
